@@ -57,7 +57,8 @@ def main():
         result=car_price_predictor(year,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner)
     st.success('The output is {} lacks'.format(result))
     if st.button("About"):
-        st.text("Lets LEarn")
+        st.text("Project Done by Abilash K")
+        st.text("Mail:kabilash1999@gmail.com")
         st.text("Built with Streamlit")
 
 if __name__=='__main__':
