@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Car Price Prediction: 
 
 ## Table of Content
   * [Demo](#demo)
@@ -37,6 +37,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 ├── car price predictor.ipynb  
 ├── Procfile
+├── README.md
 ├── app.py
 ├── car data.csv
 ├── car price.pkl
