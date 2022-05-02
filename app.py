@@ -5,8 +5,8 @@ import streamlit as st
 
 
 
-pickle_in = open("car price.pkl","rb")
-price_finder=pickle.load(pickle_in)
+#pickle_in = open("car price.pkl","rb")
+#price_finder=pickle.load(pickle_in)
 
 #@app.route('/')
 def welcome():
